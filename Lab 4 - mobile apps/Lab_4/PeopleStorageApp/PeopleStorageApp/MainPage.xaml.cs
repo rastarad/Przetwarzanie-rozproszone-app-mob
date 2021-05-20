@@ -68,6 +68,7 @@ namespace PeopleStorageApp
                 }
             };
 
+            /*
             entFirstName.TextChanged += (object sender, TextChangedEventArgs e) =>
             {
                 person.FirstName = e.NewTextValue;
@@ -81,7 +82,7 @@ namespace PeopleStorageApp
             entPhoneNumber.TextChanged += (object sender, TextChangedEventArgs e) =>
             {
                 person.PhoneNumber = e.NewTextValue;
-            };
+            };*/
         }
 
 
